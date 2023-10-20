@@ -1,8 +1,7 @@
 // src/components/Skills/Skills.js
 import React from "react";
 import "./Skills.css"; // Import the CSS file for Skills component
-import { FaC, FaPython, FaJava } from "react-icons/fa";
-
+import { FaJava, FaPython } from "react-icons/fa";
 const Skills = () => {
   const programmingLanguages = ["Java", "Python", "SQL"];
   const webTools = ["HTML", "CSS", "JavaScript", "Bootstrap", "React Js"];

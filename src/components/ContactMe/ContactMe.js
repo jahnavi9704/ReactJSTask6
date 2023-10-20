@@ -1,7 +1,6 @@
 import React from "react";
 import "./ContactMe.css";
-import { FaLinkedin, FaTwitter, FaGithub } from "react-icons/fa";
-
+import { FaLinkedin, FaGithub } from "react-icons/fa";
 const ContactMe = () => {
   return (
     <section id="contact">
